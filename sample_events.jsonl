@@ -1,0 +1,2 @@
+{"timestamp":"2026-11-25T08:00:01.120411+00:00","event":"connection_received","source_ip":"198.51.100.42","source_port":51422,"honey_port":2323,"initial_bytes_len":0}
+{"timestamp":"2026-11-25T08:00:01.120689+00:00","event":"honeyport_triggered","source_ip":"198.51.100.42","action":"dry_run_simulated","command":"ufw prepend deny from 198.51.100.42 to any"}
